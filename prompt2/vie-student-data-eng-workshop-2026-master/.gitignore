@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+ENV/
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local environment / logs
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local output folders
+artifacts/
+out/
+
+# IDE
+.vscode/
